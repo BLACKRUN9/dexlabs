@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "dex-nux",
   "private": true,
   "type": "module",
   "scripts": {
@@ -13,5 +13,22 @@
     "nuxt": "^3.10.3",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
-  }
+  },
+  "description": "Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.",
+  "version": "1.0.0",
+  "main": "nuxt.config.ts",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BLACKRUN9/dexlabs.git"
+  },
+  "keywords": [
+    "dx-1"
+  ],
+  "author": "dx-1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BLACKRUN9/dexlabs/issues"
+  },
+  "homepage": "https://github.com/BLACKRUN9/dexlabs#readme"
 }
