@@ -1,6 +1,5 @@
 {
-  "name": "nuxt-app",
-  "private": true,
+  "name": "bun-dex",
   "type": "module",
   "scripts": {
     "build": "nuxt build",
@@ -10,8 +9,26 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "dex-nux": "^1.1.0",
     "nuxt": "^3.10.3",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
-  }
+  },
+  "description": "Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.",
+  "version": "1.0.0",
+  "main": "tsconfig.json",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BLACKRUN9/dexlabs.git#main"
+  },
+  "keywords": [
+    "dexlabs"
+  ],
+  "author": "dx-1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BLACKRUN9/dexlabs/issues"
+  },
+  "homepage": "https://github.com/BLACKRUN9/dexlabs/tree/main#readme"
 }
